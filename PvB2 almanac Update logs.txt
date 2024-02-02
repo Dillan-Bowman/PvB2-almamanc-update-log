@@ -3,22 +3,24 @@
 
 This is an update log for the PvB2 Almanac
 
-
-Table of contents
-1/16 - v1.1          24
-1/17 - v1.2          35
-1/18 - v1.3          43
-1/19 - v2.0          50
-1/23 - v2.1          61
-1/25 - v2.2          66
-1/25 - v2.2.1        79
-1/26 - v2.3          84
-1/26 - v2.3.1        90
-1/29 - v2.4          94
-1/30 - v3.0          100
-1/31 - v3.1          106
-1/32 - v3.2          115
-________________
+ __________________________
+|Table of content          |
+|Date - Version       Line |
+|__________________________|
+|1/16 - v1.1          24   |
+|1/17 - v1.2          35   |
+|1/18 - v1.3          43   |
+|1/19 - v2.0          50   |
+|1/23 - v2.1          61   |
+|1/25 - v2.2          66   |
+|1/25 - v2.2.1        79   |
+|1/26 - v2.3          84   |
+|1/26 - v2.3.1        90   |
+|1/29 - v2.4          94   |
+|1/30 - v3.0          100  |
+|1/31 - v3.1          106  |
+|2/1  - v3.2          115  |
+|__________________________|
 
 
 1/16 - v1.1
@@ -112,7 +114,7 @@ ________________
    * Defensive Tile (Misc)
 
 
-1/32 - v3.2
+2/1 - v3.2
 * Replaced the descriptive wording, such as "tanky" or "Insane" with actual numerical values, off of @topPVZmaster 's suggestion. (doing this makes my job in the future a lot easier)
 * Eat speed is calculated by multiplying the bug's in game "Eat speed" and the damage they deal with each bite, most bugs have 0.1 eat speed and 50 eat damage, so most display it as 5 eat speed.
 * Moved the update log here as scratch can’t handle the size of this.

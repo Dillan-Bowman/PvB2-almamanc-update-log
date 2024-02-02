@@ -1,0 +1,433 @@
+Click on a icon to the left to view an almanac entry for that plant, bug, item, ect. You can also click on the buttons at the bottom or top of the page, but they have the same functions as the keys below:
+Keys:
+[1][2][3] switch to different almanac
+[<][>] Switch almanac pages
+[?] switch to this page
+[x] exit almanac
+
+
+
+
+Found in ---
+Toughness: 300
+Damage: 30
+Power-up: Shoots a barrage of bamboo down the lane
+Sun Cost: 100
+Recharge: 5
+People often overlook the Bamboo Shoot because it gets outclassed by much more powerful plants very quickly, however they don't realize that the first several levels untilthe next offensve plant is impossible without it.
+
+
+
+Found in ---
+Toughness: 30
+Sun Production: 50
+Power-up: Produces a moderate amount of sun instantly
+Sun Cost: 50
+Recharge: 5
+"Where am I?" asks sunflower.
+"I was in a fight against an army of zombies led by a Dr. Edgar Zomboss, and now i'm here. Where's all the peashooters? Where's Penny and Dave?" Sunflower wonders.
+
+
+Found in ---
+Toughness: 4000
+Special: Blocks off bugs from reaching your plants
+Power-up: Gains a resistance to damage from tile effects
+Sun Cost: 50
+Recharge: 20
+Cashew Guard worries for Sunflower. He never saw Sunflower before he took this bug-fighting job, but Sunflower seems a bit... unhinged.
+
+
+
+Found in ---
+Toughness: 300
+Damage: 1800
+Special: Charges up, then blows up the first bug to step on it.
+Power-up: Instantly explode in a 3x3 area
+Sun Cost: 50
+Recharge: 20
+Even though Endamine hides behind  that smile, he has extreme  anxiety. He can't handle any sort  of stress or fear, such as being approached by a bug, or he will  explode because of it.
+
+
+Found in ---
+Toughness: 300
+Damage: 30
+Special: Chiils bugs
+Power-up: Freezes all bugs in it's lane for a few seconds
+Sun Cost: 175
+Recharge: 7.5
+"It's hot here" says Frosty Shoot.  
+Spoiler warning: It's always hot  for Frosty Shoot, unless she's in  Slippery Slope.
+
+Found in ---
+Toughness: 300
+Damage: 30, shoots twice
+Power-up: Shoots several large bamboo that knocks bugs backward
+Sun Cost: 200
+Recharge: 7.5
+Creator of the popular meme "Get  bamboozled", Bamboozler has been  bamboozled by many people. 
+At least he looks cool under those shades.
+
+
+Found in ---
+Toughness: 8000
+Special: Blocks off vaulting and flying bugs
+Power-up: Gains armor that absorbs extra damage, as well as healing almond-nut.
+Sun Cost: 125
+Recharge: 20
+Almond nut is a tough nut to  crack. Go on, try it. She will  never say  anything.
+
+
+
+Found in ---
+Toughness: 300
+Damage: 30, fires into 3 lanes
+Power-up: Fires a barrage of bamboo all ove the screen.
+Sun Cost: 300
+Recharge: 7.5
+Bamtroozler enjoys being able to  attack ajacent lanes. "If a bug  gets too close on the lane to my  left or right, it won't bite me".  This has sparked some jealousy  among the other plants over his  ability.
+
+
+
+Found in ---
+Toughness:
+Damage:
+Power-up:
+Sun Cost:
+Recharge:
+
+
+
+
+Found in ---
+Toughness:
+Damage:
+Power-up:
+Sun Cost:
+Recharge:
+
+
+
+
+Found in ---
+Toughness:
+Damage:
+Power-up:
+Sun Cost:
+Recharge:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Found in ---
+Toughness: 190
+Speed: 10
+Eat Speed: 5
+The basic bug is brown, and oval  shaped. One day, somebody came up  to him and  asked,"Are you a  potato?" The answer is no. But to  be fair, he is a potato bug.  Common mistake. More common than  he  originally thought.
+
+
+
+
+
+Found in ---
+Toughness: 190
+Speed: 12
+Eat Speed: 4
+Abilitiy: Indicates a giant wave of bugs have arrived
+The Flag bug indicates a giant  wave of bugs is coming, but is  that why this bug shows up there?  It may be more that the bug just  wants to wave a giant flag  around.
+
+
+
+
+Found in ---
+Toughness: 560
+Speed: 10
+Eat Speed: 5
+The Bag-head was hungry, and found  a garbage bin. The bug than got  it's head stuck in a food delivery  bag, and can't seem to take it off.
+
+
+
+
+
+Found in ---
+Toughness: 1290
+Speed: Normal
+Eat Speed: 5
+The Buckets these bugs wear seem  to be somethng very smart to wear into a lawn infested with plants, but no bug knows the point of  wearng these, not even the  bucket-heads themselves.
+
+
+
+
+
+Found in ---
+Toughness: 2390
+Speed: 10
+Eat Speed: 5
+The Crate bug is well known for  being a bug in a crate marked  "Fragile", but is the contents of  the box truly fragile?  
+After all, the bug can handle  quite a beating from plants.
+
+
+
+
+Found in ---
+Toughness: 350
+Speed: 5
+Eat Speed: 5
+Ability: Summons and revives bugs into the center of the lawn
+People believe the warmonger bug  to practice necromancy, due to  it's strange ability to summon and  revive bugs.   Warmonger bug doesn't care. It's just looking for it's long-lost mate
+
+
+
+
+Found in ---
+Toughness:
+Speed:
+Eat Speed:
+Abilities:
+
+
+
+
+
+Found in ---
+Toughness:
+Speed:
+Eat Speed:
+Abilities:
+
+
+
+
+
+Found in ---
+Toughness:
+Speed:
+Eat Speed:
+Abilities:
+
+
+
+
+
+Found in ---
+Toughness:
+Speed:
+Eat Speed:
+Abilities:
+
+
+
+
+
+Found in ---
+Toughness:
+Speed:
+Eat Speed:
+Abilities:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Found in ---
+Effect: Digs up plants on the lawn, allowing you to plant something else there.
+The shovel is a great tool for  gardeners,  and sometimes used as a defensive tool in movies, so it  begs the question:   Why can't we hit the bugs with a  shovel?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Found in ---
+Effect: Prevents plants from being planted on that tile
+Dirt tiles are not great for plants.
+What's that? How is there grass on the lawn? To be honest, i don't really know
+
+
+
+
+
+
+Found in Enchanted Forest
+Effect: Slowly heals plants on the tile
+What makes these tiles so magical? How is it able to mend eaten cashew guards? Maybe it's just extremely good fertilizer.
+
+
+
+
+
+
+
+Found in Enchanted Forest
+Effect: Slowly kills off plants on the tile.
+These are problematic tiles to contend with, as it will kill any standard plant in about 40 seconds, which is not much sadly.
+
+
+
+
+
+
+
+Found in World War
+Effect: Reduces damage taken by plants on these tiles.
+I got nothing to say.

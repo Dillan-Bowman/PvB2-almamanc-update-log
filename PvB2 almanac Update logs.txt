@@ -20,6 +20,7 @@ This is an update log for the PvB2 Almanac
 |1/30 - v3.0          100  |
 |1/31 - v3.1          106  |
 |2/1  - v3.2          115  |
+|2/4  - v3.2.1        123  |
 |__________________________|
 
 
@@ -118,3 +119,7 @@ This is an update log for the PvB2 Almanac
 * Replaced the descriptive wording, such as "tanky" or "Insane" with actual numerical values, off of @topPVZmaster 's suggestion. (doing this makes my job in the future a lot easier)
 * Eat speed is calculated by multiplying the bug's in game "Eat speed" and the damage they deal with each bite, most bugs have 0.1 eat speed and 50 eat damage, so most display it as 5 eat speed.
 * Moved the update log here as scratch can’t handle the size of this.
+
+2/4 - v3.2.1
+
+* Changed all plant damaged from 30 to 20, to match what the level template has now.

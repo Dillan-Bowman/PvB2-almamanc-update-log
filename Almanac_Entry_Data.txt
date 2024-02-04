@@ -10,7 +10,7 @@ Keys:
 
 Found in ---
 Toughness: 300
-Damage: 30
+Damage: 20
 Power-up: Shoots a barrage of bamboo down the lane
 Sun Cost: 100
 Recharge: 5
@@ -19,7 +19,7 @@ People often overlook the Bamboo Shoot because it gets outclassed by much more p
 
 
 Found in ---
-Toughness: 30
+Toughness: 300
 Sun Production: 50
 Power-up: Produces a moderate amount of sun instantly
 Sun Cost: 50
@@ -50,7 +50,7 @@ Even though Endamine hides behind  that smile, he has extreme  anxiety. He can't
 
 Found in ---
 Toughness: 300
-Damage: 30
+Damage: 20
 Special: Chiils bugs
 Power-up: Freezes all bugs in it's lane for a few seconds
 Sun Cost: 175
@@ -60,7 +60,7 @@ Spoiler warning: It's always hot  for Frosty Shoot, unless she's in  Slippery Sl
 
 Found in ---
 Toughness: 300
-Damage: 30, shoots twice
+Damage: 20, shoots twice
 Power-up: Shoots several large bamboo that knocks bugs backward
 Sun Cost: 200
 Recharge: 7.5
@@ -80,7 +80,7 @@ Almond nut is a tough nut to  crack. Go on, try it. She will  never say  anythin
 
 Found in ---
 Toughness: 300
-Damage: 30, fires into 3 lanes
+Damage: 20, fires into 3 lanes
 Power-up: Fires a barrage of bamboo all ove the screen.
 Sun Cost: 300
 Recharge: 7.5

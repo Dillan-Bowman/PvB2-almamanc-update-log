@@ -3,27 +3,6 @@
 
 This is an update log for the PvB2 Almanac
 
- __________________________
-|Table of content          |
-|Date - Version       Line |
-|__________________________|
-|1/16 - v1.1          28   |
-|1/17 - v1.2          39   |
-|1/18 - v1.3          47   |
-|1/19 - v2.0          54   |
-|1/23 - v2.1          65   |
-|1/25 - v2.2          70   |
-|1/25 - v2.2.1        83   |
-|1/26 - v2.3          88   |
-|1/26 - v2.3.1        94   |
-|1/29 - v2.4          98   |
-|1/30 - v3.0          104  |
-|1/31 - v3.1          110  |
-|2/1  - v3.2          119  |
-|2/4  - v3.2.1        124  |
-|2/13 - v3.3          
-|__________________________|
-
 
 1/16 - v1.1
 * Compressed everything from what would have been 5 sprites down into 2 sprites (and a little code in the stage)
@@ -121,9 +100,15 @@ This is an update log for the PvB2 Almanac
 * Eat speed is calculated by multiplying the bug's in game "Eat speed" and the damage they deal with each bite, most bugs have 0.1 eat speed and 50 eat damage, so most display it as 5 eat speed.
 * Moved the update log here as scratch can’t handle the size of this.
 
+
 2/4 - v3.2.1
 * Changed all plant damaged from 30 to 20, to match what the level template has now.
+
 
 2/13 - v3.3
 * Fixed the issue where v3.2.1 dd not save the entry changes that corrected plant damages
 * Added fire bamboo to the plant Almanac [ID|p9]
+
+
+3/9 - v3.4
+ * Added Miliberry nuke [ID|p10] and Pumpkin [ID|p11]

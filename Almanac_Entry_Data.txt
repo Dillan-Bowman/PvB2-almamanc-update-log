@@ -10,7 +10,7 @@ Keys:
 
 Found in ---
 Toughness: 300
-Damage: 20
+Damage: 30
 Power-up: Shoots a barrage of bamboo down the lane
 Sun Cost: 100
 Recharge: 5
@@ -19,7 +19,7 @@ People often overlook the Bamboo Shoot because it gets outclassed by much more p
 
 
 Found in ---
-Toughness: 300
+Toughness: 30
 Sun Production: 50
 Power-up: Produces a moderate amount of sun instantly
 Sun Cost: 50
@@ -50,7 +50,7 @@ Even though Endamine hides behind  that smile, he has extreme  anxiety. He can't
 
 Found in ---
 Toughness: 300
-Damage: 20
+Damage: 30
 Special: Chiils bugs
 Power-up: Freezes all bugs in it's lane for a few seconds
 Sun Cost: 175
@@ -80,7 +80,7 @@ Almond nut is a tough nut to  crack. Go on, try it. She will  never say  anythin
 
 Found in ---
 Toughness: 300
-Damage: 20, fires into 3 lanes
+Damage: 30, fires into 3 lanes
 Power-up: Fires a barrage of bamboo all ove the screen.
 Sun Cost: 300
 Recharge: 7.5
@@ -89,31 +89,30 @@ Bamtroozler enjoys being able to  attack ajacent lanes. "If a bug  gets too clos
 
 
 Found in ---
-Toughness:
-Damage:
-Power-up:
-Sun Cost:
-Recharge:
+Toughness: 300
+Damage: 40
+Power-up: Lights the surrounding 5x3 area on fire
+Sun Cost: 175
+Recharge: 7.5
+Fire bamboo is very fearful of frosty shoot. He specifically lit himself on fire in an attempt to protect himself against frosty shoot.
+No one has seen Fire bamboo in weeks however, did frosty shoot get to him?
+
+
+Found in World War
+Damage: 1800, Poison does 20
+Sun Cost: 350
+Recharge: 60
+Special: Explodes, dealing damage to all bugs on screen, as well as leaving a 3x3 poison cloud.
 
 
 
 
-Found in ---
-Toughness:
-Damage:
-Power-up:
-Sun Cost:
-Recharge:
 
-
-
-
-Found in ---
-Toughness:
-Damage:
-Power-up:
-Sun Cost:
-Recharge:
+Found in Enchanted Forest
+Toughness: 4000
+Power-up: Splits into 2 extra pumpkins above and below, both with the same health as the original.
+Sun Cost: 150
+Recharge: 20
 
 
 
@@ -431,3 +430,29 @@ These are problematic tiles to contend with, as it will kill any standard plant 
 Found in World War
 Effect: Reduces damage taken by plants on these tiles.
 I got nothing to say.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
